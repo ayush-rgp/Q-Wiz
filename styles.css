@@ -99,8 +99,8 @@
 
             position: relative;
             text-align: center;
-            top: 250px;
-            left: 500px;
+            top: 80px;
+            left: 250px;
             transform: translate(-50%, -50%);
             color: transparent;
             -webkit-text-stroke: 2px black;
